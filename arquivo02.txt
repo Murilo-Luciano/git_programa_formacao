@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Isso é um teste
+=======
+Conteudo arquivo
+>>>>>>> 68537c2a4baf60bba22146a35edb8ac131cdcc8e
